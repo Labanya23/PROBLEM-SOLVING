@@ -1,3 +1,4 @@
+//this code practice from crazyprogrammer website
 #include<bits/stdc++.h>
 #include<stdio.h>
 #define MAX 10
