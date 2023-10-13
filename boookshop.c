@@ -1,7 +1,9 @@
+//CODE STUDY
+
 #include<stdio.h>
 #include<string.h>
 //this header using for take string values
-struct Book{ //structure use
+struct Book{ //structure use//IT with it member of field struct store data individuals of book
     char title[100];
     char author[100];//variable and datatypes
     float price;
